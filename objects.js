@@ -2,4 +2,6 @@ var playlist = { Michael: 'Beat It'}
 function updatePlaylist(playlist, artistName, songTitle){
  return playlist 
 }
-function 
+function removeFromPlaylist(playlist, artistName){
+  
+}
